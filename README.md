@@ -2,7 +2,7 @@
 
 > **Cours de soutien en mathématiques pour collège et lycée**
 
-**Mathy avec Fatima** est un site web vitrine dédié aux cours de soutien en mathématiques.
+**Mathy avec Fatima** https://fatimamassou.github.io/Mathy-avec-Fatima/ est un site web vitrine dédié aux cours de soutien en mathématiques.
 Il présente les services proposés, les niveaux accompagnés, la méthode d'enseignement et permet aux parents de contacter directement Fatima.
 
 ## 🌐 Présentation

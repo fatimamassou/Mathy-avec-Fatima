@@ -97,7 +97,21 @@ a{color:inherit}
 .bar{position:fixed;bottom:0;left:0;right:0;z-index:40;display:flex;gap:.6rem;padding:.6rem .8rem calc(.6rem + env(safe-area-inset-bottom));background:rgba(255,255,255,.96);box-shadow:0 -4px 16px rgba(31,42,86,.1)}
 .bar a{flex:1;text-align:center;text-decoration:none;font-weight:800;padding:.8rem;border-radius:999px;background:var(--lav);color:#fff}
 .bar .wa{background:#1F8F5B}
+.copy .creator {
+  margin-left: 8px;
+  opacity: 0.8;
+}
 
+.copy .creator a {
+  color: inherit;
+  font-weight: 600;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.copy .creator a:hover {
+  opacity: 0.7;
+}
 /* Subtle reveal (only the content blocks, once) */
 .reveal{opacity:0;transform:translateY(14px);transition:opacity .7s,transform .7s}
 .reveal.in{opacity:1;transform:none}

@@ -106,10 +106,6 @@ Mathy-avec-Fatima/
 ├── style.css
 ├── script.js
 │
-├── assets/
-│   ├── images/
-│   └── ...
-│
 ├── favicon.svg
 └── README.md
 ```
